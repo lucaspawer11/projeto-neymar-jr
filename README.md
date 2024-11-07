@@ -18,3 +18,5 @@ Chuteira Future Z:![image](https://github.com/user-attachments/assets/177689f8-b
 
 # BOLAS
 
+Graphic Branca e Azul:![image](https://github.com/user-attachments/assets/093e75ef-508a-4e3c-82be-73ed166e57d1) 
+Voltage Graphic:![image](https://github.com/user-attachments/assets/3337cef2-3354-4497-978c-229c783e92d0)
