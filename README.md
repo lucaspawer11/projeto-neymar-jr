@@ -4,6 +4,7 @@ Projeto Neymar Jr é uma loja localizada no Capão Raso, Novo Mundo, Curitiba
 A projeto Neymar Jr, é uma loja em que você pode encontrar produtos do nosso jogador Neymar Jr, tais como chuteiras, camisas, bola, pulseiras e mais
 
 # CAMISAS DE TIME
+
 Barcelona:![image](https://github.com/user-attachments/assets/497668cc-e07f-4af8-ac0c-740f5462b06e)
 Santos:![image](https://github.com/user-attachments/assets/47a0dd2d-5230-4bf5-ac3a-fd3b0dc2d4d7)
 Paris Saint German:![image](https://github.com/user-attachments/assets/5c247dce-ae71-4393-a8eb-03313e01defc)
